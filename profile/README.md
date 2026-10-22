@@ -13,7 +13,7 @@ Wij bouwen **websites, apps en koppelingen voor makelaars** – van de eerste sc
 ### 🛠️ Onze stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=svelte,ts,nodejs,php,mongodb,docker&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=svelte%2Cts%2Cnodejs%2Cphp%2Cmongodb%2Cdocker&theme=dark">
   <img src="https://skillicons.dev/icons?i=svelte,ts,nodejs,php,mongodb,docker&theme=light" alt="SvelteKit, TypeScript, Node.js, PHP, MongoDB, Docker" height="48">
 </picture>
 &nbsp;
